@@ -7,7 +7,7 @@ const path = require('path');
  * Visual Analysis Tool for Cross-Device Compatibility
  * Analyzes baseline screenshots to identify layout issues
  * 2025 Standards Compliance
- * This tool is a personal swiss tool for my locakl development framework, if you have any quesitons
+ * This tool is a personal swiss tool for my local development framework, if you have any questions
  * drop a message ;)
  */
 class VisualAnalyzer {
